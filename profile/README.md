@@ -1,24 +1,28 @@
 <h1>Secure-Smart-Sync</h1>
 
-  <p>Privacy-first Obsidian vault sync via Cloudflare R2 with client-side encryption.<br>
-  Your files never leave your device unencrypted. No third-party servers. No subscriptions.</p>
+Secure Smart Sync is an organization focused on building privacy-first synchronization tools for Obsidian.
 
+Its primary project, **Secure Smart Sync (SSS)**, is an Obsidian plugin designed to help users sync their vaults across devices using their own cloud infrastructure while maintaining reliability, privacy, and user control.
 
-**Not affiliated with [Obsidian Sync](https://obsidian.md/sync).** 
+The project ecosystem also includes supporting infrastructure, documentation, and experimental repositories used for development and testing.
 
+## Ecosystem
+
+- **Secure Smart Sync** — Main plugin repository  
+- **Secure Smart Sync Relay** — Device pairing and relay infrastructure  
+- **Secure Smart Sync Site** — Official website  
+- **Secure Smart Sync Iterations** — Experimental implementations and archived approaches  
+- **Documentation** — Technical and user documentation  
+- **Guidelines** — Contribution and project guidelines  
 
 ## Support
 
-<div>
+Secure Smart Sync is an independent project and is not affiliated with Obsidian.
 
-<p align="center">
-  <a href="https://ko-fi.com">
-    <img src="https://ko-fi.com" alt="Support me on Ko-fi" />
-  </a>
-</p>
+If you find the project useful, you can support development by:
 
-
-
-<strong>If the plugin has helped you and saved your time, consider supporting the developer</strong>
-
-</div>
+- Starring repositories  
+- Reporting issues  
+- Contributing feedback  
+- Following project updates  
+- Supporting the developer via Ko-fi *(link here)*
