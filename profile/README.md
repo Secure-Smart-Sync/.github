@@ -1,28 +1,30 @@
-<h1>Secure-Smart-Sync</h1>
+# Secure Smart Sync
 
 Secure Smart Sync is an organization focused on building privacy-first synchronization tools for Obsidian.
 
 Its primary project, **Secure Smart Sync (SSS)**, is an Obsidian plugin designed to help users sync their vaults across devices using their own cloud infrastructure while maintaining reliability, privacy, and user control.
 
-The project ecosystem also includes supporting infrastructure, documentation, and experimental repositories used for development and testing.
+The organization also maintains supporting infrastructure, documentation, and related development resources.
+
+---
 
 ## Ecosystem
 
-- **Secure Smart Sync** — Main plugin repository  
-- **Secure Smart Sync Relay** — Device pairing and relay infrastructure  
-- **Secure Smart Sync Site** — Official website  
-- **Secure Smart Sync Iterations** — Experimental implementations and archived approaches  
-- **Documentation** — Technical and user documentation  
-- **Guidelines** — Contribution and project guidelines  
+**Main Repository**  
+https://github.com/Secure-Smart-Sync/Secure-Smart-Sync
+
+**Documentation / Wiki**  
+https://github.com/Secure-Smart-Sync/Secure-Smart-Sync/wiki
+
+**Official Website**  
+https://secure-smart-sync.pages.dev/
+
+---
 
 ## Support
 
 Secure Smart Sync is an independent project and is not affiliated with Obsidian.
 
-If you find the project useful, you can support development by:
+If you find the project useful, consider starring the repository, reporting issues, sharing feedback, or supporting development:
 
-- Starring repositories  
-- Reporting issues  
-- Contributing feedback  
-- Following project updates  
-- Supporting the developer via Ko-fi *(link here)*
+https://ko-fi.com/xensenx
