@@ -11,7 +11,12 @@
 
 <div>
 
-[![ko-fi](https://ko-fi.com)](https://ko-fi.com)
+<p align="center">
+  <a href="https://ko-fi.com">
+    <img src="https://ko-fi.com" alt="Support me on Ko-fi" />
+  </a>
+</p>
+
 
 
 <strong>If the plugin has helped you and saved your time, consider supporting the developer</strong>
